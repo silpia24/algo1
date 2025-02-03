@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6e/b5/8c/6eb58cd533d9ee5cf8e883719e863c74.jpg"/>
+  <img src="https://i.pinimg.com/736x/90/f2/d9/90f2d99fc1a4716924e33c84a710d5e6.jpg"/><br><br>
+  "<i>If it works, don't touch</i>"
 </p>
